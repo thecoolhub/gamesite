@@ -4,7 +4,7 @@ ui_Back	Back
 ui_Home	Home
 ui_Dilemma	Dilemma
 ui_Continue	Continue
-ui_Play	Play
+ui_Play	Rizz Up
 ui_Message	Message
 ui_Select	Select
 ui_Profile	Profile
@@ -12,11 +12,11 @@ ui_Practice	Practice
 ui_Exercise	Exercise
 ui_Fixtures	Fixtures
 ui_Results	Results
-ui_Exit	Exit
+ui_Exit	Lose Ur Aura
 ui_Earn	Earn
 ui_Week	Week
 ui_Weeks	Weeks
-ui_Cash	Cash
+ui_Cash	Skibidi
 ui_Shop	Shop
 ui_Study	Study
 ui_Purchase	Purchase
@@ -94,8 +94,8 @@ comm_stage_2pt_attempt	They go for 2 points...
 comm_stage_2pt_attemptQB	$teamname go for 2 points...
 comm_stage_2pt_missed	But get stopped!
 comm_stage_2pt_scored	And score!
-comm_stage_Turnover_Tackle1	[$pos] $playername makes a great tackle!
-comm_stage_Turnover_Tackle2	[$pos] $playername makes the tackle!
+comm_stage_Turnover_Tackle1	[$pos] $playername makes a greatest sigma aura farm!
+comm_stage_Turnover_Tackle2	[$pos] $playername makes the sigma aura farm!
 comm_stage_Turnover_Fumble1	[$pos] $playername forces a fumble!
 comm_stage_Turnover_Fumble2	[$pos] $playername punches it out for a fumble!
 comm_stage_Turnover_Sack1	[$pos] $playername sacks the quarterback!
