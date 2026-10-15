@@ -1,10 +1,10 @@
 msg_Update	Thank you for updating Retro Bowl!##You are now able to play exhibition games! Choose two teams for a one-off game and even pass n' play to compete against a fellow human!##I hope you are still enjoying Retro Bowl and thank you for your continued support.##- Simon
-ui_NewStarGames	New Star Games
+ui_NewStarGames	New Sigma Games
 ui_Back	Back
 ui_Home	Home
 ui_Dilemma	Dilemma
-ui_Continue	Be the skibidi sigma
-ui_Play	Rizz Up
+ui_Continue	Rizz Up
+ui_Play	Sigma
 ui_Message	Message
 ui_Select	Select
 ui_Profile	Profile
@@ -484,11 +484,11 @@ postmatch_question_player_1	A foreign reporter asks:##In which position does $pl
 postmatch_question_player_2	A foreign reporter asks:##In which position does $playername play?-choice_qpos_wrong-choice_qpos_correct
 postmatch_question_staff_1	A foreign reporter asks:##Which coordinator is $playername?-choice_qpos_wrong-choice_qpos_correct
 postmatch_question_staff_2	A foreign reporter asks:##Which coordinator is $playername?-choice_qpos_correct-choice_qpos_wrong
-choice_PraiseTeam	Praise#Team
-choice_PraiseCoaches	Praise#Coaching
-choice_PraiseFans	Praise#Fans
-choice_PraiseOwner	Praise#Owner
-choice_PraisePlayer	Praise#Player
+choice_PraiseTeam	Rizz Up#Team
+choice_PraiseCoaches	Rizz Up#Coaching
+choice_PraiseFans	Rizz Up#Fans
+choice_PraiseOwner	Rizz Up#Owner
+choice_PraisePlayer	Rizz Up#Player
 choice_DefendPlayer	Defend#Player
 choice_CriticiseSelf	It's on#me
 choice_CriticisePlayer	Criticize#Player
