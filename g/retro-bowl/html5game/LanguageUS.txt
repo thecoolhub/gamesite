@@ -3,7 +3,7 @@ ui_NewStarGames	New Star Games
 ui_Back	Back
 ui_Home	Home
 ui_Dilemma	Dilemma
-ui_Continue	Continue
+ui_Continue	Be the skibidi sigma
 ui_Play	Rizz Up
 ui_Message	Message
 ui_Select	Select
@@ -434,7 +434,7 @@ ui_Coordinators	Coordinators
 ui_AvailableHires	Available Hires
 ui_Hired	Hired
 ui_CurrentHire	Current Hire
-ui_HireStaff	Hire Staff
+ui_HireStaff	Hire The Sigmas
 msg_HireStaff	Do you want to hire $hirename on a $year year contract for $num credits?##Your existing coach will be fired.
 msg_HireStaffNoCost	You need $num coach credits to hire this member of staff.
 msg_StaffExtend	Do you want to extend $hirename's contract by 1 year for $num credits?
